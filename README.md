@@ -1,2 +1,2 @@
 # Credit-card-default-prediction
-Gradio app:   http://127.0.0.1:7860
+Gradio app: https://510c648ea6878868b9.gradio.live
